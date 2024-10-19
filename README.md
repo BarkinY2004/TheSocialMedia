@@ -1,4 +1,4 @@
-# TheSocialMedia
+# The Social Media
 
 Language used : Java
 
