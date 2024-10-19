@@ -1,0 +1,5 @@
+user1 : user2 profilini güncelledi.
+user4 : user2 profilini güncelledi.
+
+user1 : user2 profilini güncelledi.
+user4 : user2 profilini güncelledi.
